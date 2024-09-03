@@ -1,4 +1,4 @@
-                                   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=29F71C&width=435&lines=Learning+and+Securing+the+worls!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=29F71C&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 # Hi there 👋
 
 I'm Mr_Grey_Hat, a hacker and security researcher. I'm on my way to becoming a cybersecurity specialist or a bug hunter. Technology has always fascinated me, and I've immersed myself in the captivating world of cybersecurity. From malwares to viruses and bug hunting, I hope to become a cybersecurity specialist so I can protect company assets and contribute to the community.
