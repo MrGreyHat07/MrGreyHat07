@@ -1,18 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Exploring+my+potentials+to+secure+the+world)](https://git.io/typing-svg)
 # Hi there 👋
 
 I'm Mr_Grey_Hat, a hacker and security researcher. I'm on my way to becoming a cybersecurity specialist or a bug hunter. Technology has always fascinated me, and I've immersed myself in the captivating world of cybersecurity. From malwares to viruses and bug hunting, I hope to become a cybersecurity specialist so I can protect company assets and contribute to the community.
-
-## More about me:
-- **Name:** Mr_Grey_Hat
-- **From:** India
-- **Roles:** Bug Hunter | Security Researcher | Penetration Tester
-- **Experience:** Cracking, Reverse Engineering, Bug Hunting, Social Engineering, Pentesting,
-- **Areas of Interest:**
-  - Penetration Testing
-  - Bug Hunting
-  - Improving knowledge in website vulnerabilities
-- **Currently Learning:** Everything!
-- **Contact:** Reach out to me at deepakrawat2708@gmail.com
 
 Let's make the digital world safer together! 🚀🔒
 
