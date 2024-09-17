@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Learning+to+Secure...!" alt="Typing SVG" />
   </a>
 </div>
-# Hi there 👋
+<h2># Hi there 👋</h2>
 
 I'm Mr_Grey_Hat, a hacker and security researcher. I'm on my way to becoming a cybersecurity specialist or a bug hunter. Technology has always fascinated me, and I've immersed myself in the captivating world of cybersecurity. From malwares to viruses and bug hunting, I hope to become a cybersecurity specialist so I can protect company assets and contribute to the community.
 
