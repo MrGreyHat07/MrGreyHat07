@@ -1,5 +1,5 @@
-![Uploading anonimous-hacker.gif…]()
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=29F71C&width=435&lines=Learning+to+Secure...!)](https://git.io/typing-svg)
+<p align="center"><img src="https://github.com/user-attachments/assets/0a348b10-6cbd-4766-ac2a-c71ff57eb089" width="100%" height="auto"/></p>
+[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=29F71C&width=435&lines=Learning+to+Secure...!)](https://git.io/typing-svg)
 # Hi there 👋
 
 I'm Mr_Grey_Hat, a hacker and security researcher. I'm on my way to becoming a cybersecurity specialist or a bug hunter. Technology has always fascinated me, and I've immersed myself in the captivating world of cybersecurity. From malwares to viruses and bug hunting, I hope to become a cybersecurity specialist so I can protect company assets and contribute to the community.
