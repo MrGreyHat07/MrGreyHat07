@@ -1,4 +1,4 @@
-![](https://github.com/MrGreyHat07/MrGreyHat07/blob/main/anonimous-hacker.gif)
+![Uploading anonimous-hacker.gif…]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=29F71C&width=435&lines=Learning+to+Secure...!)](https://git.io/typing-svg)
 # Hi there 👋
 
